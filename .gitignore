@@ -1,0 +1,175 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Python testing and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+coverage/
+.cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Python local config
+local_settings.py
+config.local.py
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+.npm/
+.yarn/
+.pnpm-store/
+
+# Package manager lock files (optional - comment out if you want to track them)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Frontend build outputs
+dist/
+dist-ssr/
+*.local
+.parcel-cache/
+.cache/
+
+# Frontend testing
+coverage/
+.nyc_output/
+
+# ESLint cache
+.eslintcache
+
+# Vite
+.vite/
+
+# Tauri / Rust
+/web/src-tauri/target/
+/web/src-tauri/Cargo.lock
+.cargo/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Editor directories and files
+.vscode/
+.idea/
+.fleet/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*~
+.#*
+
+# Vim
+.vim/
+*.swp
+*.swo
+
+# Emacs
+.emacs.d/
+\#*\#
+.\#*
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.orig
+*.rej
+
+# Archive files (optional)
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Configuration backups
+*.conf.bak
+*.config.bak
+
+# Documentation build
+docs/_build/
+docs/build/ 
