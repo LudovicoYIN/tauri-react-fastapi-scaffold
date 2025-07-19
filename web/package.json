@@ -13,8 +13,12 @@
     "build:app": "npm run build && npm run tauri build"
   },
   "dependencies": {
+    "@ant-design/x": "^1.5.0",
     "@tauri-apps/api": "^2",
     "@tauri-apps/plugin-opener": "^2",
+    "antd": "^5.26.5",
+    "antd-style": "^3.7.1",
+    "dayjs": "^1.11.13",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
